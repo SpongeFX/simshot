@@ -653,4 +653,4 @@ https://github.com/SpongeFX/simshot/assets/152398516/f8049cf8-76f5-48cb-accd-820
 
 ## 💬 Feedback
 
-In this version, there is no reduction in speed during collisions and ricochets, as well as determination of the density and type of materials with different processing scenarios, and much more. I have many more ideas on how to develop the asset and this direction, but maybe someone will have interesting suggestions or suggestions, it would be very interesting to know about it, and if you have any feedback or run into issues, please feel free to open an issue on this GitHub project.
+This version does not reduce the speed after collisions and bounces, and also does not allow you to determine the density and type of materials under various processing scenarios, and much more. I have a lot of ideas on how to develop the asset and this direction, but maybe someone will have interesting suggestions or suggestions, it would be very interesting to know about it, and If you have any feedback or run into issues, please feel free to open an issue on this GitHub project.
