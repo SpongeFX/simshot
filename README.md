@@ -5,7 +5,7 @@
 ### Simshot is a Houdini SideFX digital asset for accelerated development and customization of scenes with emulation of shots from different types of weapons, accompanied by various effects when hit.
 
 
-[![demo](https://github.com/SpongeFX/simshot/assets/152398516/8f4dfd2c-98bf-4934-b3d4-8d5e296b0c8d)](https://github.com/SpongeFX/simshot/assets/152398516/8f4dfd2c-98bf-4934-b3d4-8d5e296b0c8d)
+[![demo](https://github.com/SpongeFX/simshot/assets/152398516/47be11ac-e6f0-43bf-a241-39f0e56100ab)](https://github.com/SpongeFX/simshot/assets/152398516/8f4dfd2c-98bf-4934-b3d4-8d5e296b0c8d)
 
 
 Simshot moves points along specified trajectories, determining collisions with polygonal geometric objects, where it creates points at the intersections of polygons and a polygonal model of the trajectory of movement inside the polygonal object. Asset calculates the rebound effect with a configurable bounce angle threshold. The points and polygons created as a result of calculations have special attributes for applying accompanying effects.
